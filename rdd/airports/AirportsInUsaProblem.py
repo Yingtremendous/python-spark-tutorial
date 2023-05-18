@@ -13,5 +13,9 @@ if __name__ == "__main__":
     Sample output:
     "Putnam County Airport", "Greencastle"
     "Dowagiac Municipal Airport", "Dowagiac"
+    - read txt
+    - read line
+    - filter: finde us
+    - get city and airport name
     ...
     '''
