@@ -16,6 +16,6 @@ if __name__ == "__main__":
     - read txt
     - read line
     - filter: finde us
-    - get city and airport name
+    - get city and airport name using map
     ...
     '''
